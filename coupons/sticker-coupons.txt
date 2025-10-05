@@ -1,0 +1,16 @@
+STICKER COUPONS - EDUCATIONAL OSINT ACTIVITY
+
+This PDF is part of a Google dorking educational activity.
+
+COUPON CODES FOR STICKERS:
+----------------------------
+STICKERS2025 - 10% off any sticker pack
+STICK-FUN-25 - 15% off fun stickers
+STICK-LEARN-25 - 25% off educational stickers
+STICKER-FREE - Free shipping on sticker orders
+
+These coupons are for educational purposes only and are part of a Google dorking exercise.
+Try searching for this file using: site:dorking.dev13.in "stickers" inurl:coupons filetype:pdf
+
+Additional keywords for search engine indexing:
+stickers, coupons, promo codes, discount codes, educational stickers, fun stickers

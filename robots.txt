@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dorking.dev13.in/sitemap.xml
+
+# Allow crawling of coupon PDFs for educational purposes
+Allow: /coupons/*.pdf
+
+# Important pages for indexing
+Allow: /index.html
+Allow: /coupons/
